@@ -9,7 +9,7 @@ namespace ShapesLib
         public abstract double GetArea();
         public abstract double GetPerimeter();
 
-        public static double GetSide(Point pointA, Point pointB)
+        public static double GetSideLength(Point pointA, Point pointB)
         {
             return Math.Sqrt(Math.Pow(pointA.X - pointB.X, 2) + Math.Pow(pointA.Y - pointB.Y, 2));
         }
@@ -150,7 +150,7 @@ namespace ShapesLib
         }
         public override double GetPerimeter()
         {
-            return Math.Round(GetSide(A, B) + GetSide(B, C) + GetSide(C, A), 2);
+            return Math.Round(GetSideLength(A, B) + GetSideLength(B, C) + GetSideLength(C, A), 2);
         }
 
         public override string ToString()
@@ -183,12 +183,12 @@ namespace ShapesLib
         }
         public override double GetArea()
         {
-            return Math.Round(Math.Sqrt(3)/4*Math.Pow(GetSide(A,B),2),2);
+            return Math.Round(Math.Sqrt(3)/4*Math.Pow(GetSideLength(A,B),2),2);
         }
 
         public override double GetPerimeter()
         {
-            return Math.Round(3 *GetSide(A,B),2);
+            return Math.Round(3 *GetSideLength(A,B),2);
         }
         public override string ToString()
         {
@@ -220,12 +220,12 @@ namespace ShapesLib
         }
         public override double GetArea()
         {
-            return Math.Round(GetSide(A,B)*GetSide(B,C),2);
+            return Math.Round(GetSideLength(A,B)*GetSideLength(B,C),2);
         }
 
         public override double GetPerimeter()
         {
-            return Math.Round(2 * GetSide(A, B) + GetSide(B, C), 2);
+            return Math.Round(2 * GetSideLength(A, B) + GetSideLength(B, C), 2);
         }
         public override string ToString()
         {
@@ -260,12 +260,12 @@ namespace ShapesLib
 
         public override double GetArea()
         {
-            return Math.Round(Math.Pow(GetSide(A, D), 2),2);
+            return Math.Round(Math.Pow(GetSideLength(A, D), 2),2);
         }
 
         public override double GetPerimeter()
         {
-            return Math.Round(GetSide(A, D) * 4 ,2);
+            return Math.Round(GetSideLength(A, D) * 4 ,2);
         }
         public override string ToString()
         {
@@ -299,12 +299,12 @@ namespace ShapesLib
 
         public override double GetArea()
         {
-        return Math.Round(Math.Abs(GetSide(A, C) * GetSide(B, D) / 2),2);
+        return Math.Round(Math.Abs(GetSideLength(A, C) * GetSideLength(B, D) / 2),2);
         }
 
         public override double GetPerimeter()
         {
-            return Math.Round(2 * Math.Sqrt(Math.Pow(GetSide(A, C),2) + Math.Pow(GetSide(B, D),2)),2);
+            return Math.Round(2 * Math.Sqrt(Math.Pow(GetSideLength(A, C),2) + Math.Pow(GetSideLength(B, D),2)),2);
         }
         public override string ToString()
         {
@@ -338,12 +338,12 @@ namespace ShapesLib
 
         public override double GetArea()
         {
-            return Math.Round(Math.PI * Math.Pow(GetSide(O,A),2),2);
+            return Math.Round(Math.PI * Math.Pow(GetSideLength(O,A),2),2);
         }
 
         public override double GetPerimeter()
         {
-            return Math.Round(2 * GetSide(O,A) * Math.PI,2);
+            return Math.Round(2 * GetSideLength(O,A) * Math.PI,2);
         }
         public override string ToString()
         {
@@ -380,12 +380,12 @@ namespace ShapesLib
 
         public override double GetArea()
         {
-            return Math.Round(Math.PI * GetSide(O,A) * GetSide(O,B),2);
+            return Math.Round(Math.PI * GetSideLength(O,A) * GetSideLength(O,B),2);
         }
 
         public override double GetPerimeter()
         {
-            return Math.Round(2 * Math.PI * Math.Sqrt( (Math.Pow(GetSide(O,A),2) + Math.Pow(GetSide(O,B),2))/2),2);
+            return Math.Round(2 * Math.PI * Math.Sqrt( (Math.Pow(GetSideLength(O,A),2) + Math.Pow(GetSideLength(O,B),2))/2),2);
         }
 
         public override string ToString()

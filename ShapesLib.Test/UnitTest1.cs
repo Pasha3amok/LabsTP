@@ -145,13 +145,13 @@ namespace ShapesLib.Test
         }
 
         [Test]
-        public void TestGetSide()
+        public void TestGetSideLength()
         {
-            var testSide = Shape.GetSide(new Point(4, -6), new Point(-6, -6));
-            var testSide2 = Shape.GetSide(new Point(8, -12), new Point(-12, -12));
+            var testSideLength = Shape.GetSideLength(new Point(4, -6), new Point(-6, -6));
+            var testSideLength2 = Shape.GetSideLength(new Point(8, -12), new Point(-12, -12));
 
-            Assert.AreEqual(10, testSide);
-            Assert.AreEqual(20, testSide2);
+            Assert.AreEqual(10, testSideLength);
+            Assert.AreEqual(20, testSideLength2);
         }
             [Test]
         public void DeboObject_ToString_ReturnsCorrectValue()
