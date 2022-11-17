@@ -1,0 +1,20 @@
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesLib\bin\Debug\netcoreapp3.1\ShapesLib.deps.json
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesLib\bin\Debug\netcoreapp3.1\ShapesLib.dll
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesLib\bin\Debug\netcoreapp3.1\ShapesLib.pdb
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.csproj.AssemblyReference.cache
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.AssemblyInfoInputs.cache
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.AssemblyInfo.cs
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.csproj.CoreCompileInputs.cache
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.dll
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.pdb
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesLib\bin\Debug\netcoreapp3.1\ShapesLib.deps.json
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesLib\bin\Debug\netcoreapp3.1\ShapesLib.dll
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesLib\bin\Debug\netcoreapp3.1\ShapesLib.pdb
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.csproj.AssemblyReference.cache
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.AssemblyInfoInputs.cache
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.AssemblyInfo.cs
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.csproj.CoreCompileInputs.cache
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.dll
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesLib\obj\Debug\netcoreapp3.1\ShapesLib.pdb

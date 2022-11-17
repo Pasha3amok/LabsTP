@@ -1,0 +1,34 @@
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesConsoleUI.exe
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesConsoleUI.deps.json
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesConsoleUI.runtimeconfig.json
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesConsoleUI.runtimeconfig.dev.json
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesConsoleUI.dll
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesConsoleUI.pdb
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesLib.dll
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesLib.pdb
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.csproj.AssemblyReference.cache
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.AssemblyInfoInputs.cache
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.AssemblyInfo.cs
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.csproj.CopyComplete
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.dll
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.pdb
+C:\Users\pasha\Documents\2 year\Технологии Програмирования\Лаба 2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.genruntimeconfig.cache
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesConsoleUI.exe
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesConsoleUI.deps.json
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesConsoleUI.runtimeconfig.json
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesConsoleUI.runtimeconfig.dev.json
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesConsoleUI.dll
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesConsoleUI.pdb
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesLib.dll
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\bin\Debug\netcoreapp3.1\ShapesLib.pdb
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.csproj.AssemblyReference.cache
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.AssemblyInfoInputs.cache
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.AssemblyInfo.cs
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.csproj.CopyComplete
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.dll
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.pdb
+C:\Users\pasha\Documents\2 year\ProgrammingTechnology\Lab2\shapeseducationproject-main\ShapesConsoleUI\obj\Debug\netcoreapp3.1\ShapesConsoleUI.genruntimeconfig.cache

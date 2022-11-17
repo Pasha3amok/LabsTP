@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ShapesUI/1.0.0": {
+        "dependencies": {
+          "ShapesLib": "1.0.0"
+        },
+        "runtime": {
+          "ShapesUI.dll": {}
+        }
+      },
+      "ShapesLib/1.0.0": {
+        "runtime": {
+          "ShapesLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShapesUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShapesLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

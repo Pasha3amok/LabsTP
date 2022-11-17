@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fFOOPZHa3zO9uqBetpnalcb6tHLH4J+fy0RognuVnVIgY/4UbSKA2VhmLG+Bi3pgO9E4LYObMJMABwuRyLfcww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pasha\\Documents\\2 year\\ProgrammingTechnology\\Lab2\\shapeseducationproject-main\\ShapesConsoleUI\\ShapesConsoleUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pasha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
