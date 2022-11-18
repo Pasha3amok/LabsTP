@@ -119,11 +119,9 @@ namespace ShapesLib.Test
             Assert.AreEqual(int.Parse(testParam[0][0]) + 1, testParam.Count);
 
             var testShapeTriangle = ShapeOption.CreateShapes(testParam, 1);
-            var testShapeRectangle = ShapeOption.CreateShapes(testParam, 5);
             var testShapeEllipse = ShapeOption.CreateShapes(testParam, 7);
 
             Assert.AreEqual(new Triangle(new Point(2, 10), new Point(0, 0), new Point(4, 0)), testShapeTriangle);
-            Assert.AreEqual(new Rectangle(new Point(6, 1), new Point(6, 5), new Point(3, 5), new Point(3, 1)), testShapeRectangle);
             Assert.AreEqual(new Ellipse(new Point(0, 0), new Point(5, 0), new Point(0, 3)), testShapeEllipse);
         }
 
@@ -131,8 +129,10 @@ namespace ShapesLib.Test
         public void TestFile()
         {
             var strContent = string.Empty;
+
             using (var file = new StreamReader("C:\\Users\\pasha\\Documents\\2 year\\ProgrammingTechnology\\Lab2\\shapeseducationproject-main\\ShapesConsoleUI\\param.txt"))
                 strContent = file.ReadToEnd();
+
             System.Console.WriteLine(strContent);
             Assert.AreEqual(strContent, "7;" +
                                         "\r\nTriangle 2 10 0 0 4 0;" +
@@ -148,10 +148,8 @@ namespace ShapesLib.Test
         public void TestGetSideLength()
         {
             var testSideLength = Shape.GetSideLength(new Point(4, -6), new Point(-6, -6));
-            var testSideLength2 = Shape.GetSideLength(new Point(8, -12), new Point(-12, -12));
 
             Assert.AreEqual(10, testSideLength);
-            Assert.AreEqual(20, testSideLength2);
         }
             [Test]
         public void DeboObject_ToString_ReturnsCorrectValue()

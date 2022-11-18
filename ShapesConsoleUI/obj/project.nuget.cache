@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fFOOPZHa3zO9uqBetpnalcb6tHLH4J+fy0RognuVnVIgY/4UbSKA2VhmLG+Bi3pgO9E4LYObMJMABwuRyLfcww==",
+  "dgSpecHash": "IIcTeMdYAMlUAwYfLZoL9OTW/t9As/RAJdZeuGBIl7lfAHDNpWYhPmq7hsSG0SGN+Bku4LVQaaBMR1LkqRpaEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pasha\\Documents\\2 year\\ProgrammingTechnology\\Lab2\\shapeseducationproject-main\\ShapesConsoleUI\\ShapesConsoleUI.csproj",
+  "projectFilePath": "C:\\Users\\pasha\\Documents\\2 year\\ProgrammingTechnology\\2022_Humenchuk_P_S_Lab_2\\shapeseducationproject-main\\ShapesConsoleUI\\ShapesConsoleUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pasha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
   ],
